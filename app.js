@@ -7,7 +7,7 @@ const cron = require('node-cron');
 const url = 'https://www.careerswave.in/ei-samay-epaper-pdf/';
 
 // Schedule the task to run every day at 7 am
-cron.schedule('0 7 * * *', () => {
+cron.schedule('10 4 * * *', () => {
   https
     .get(url, (res) => {
       let data = '';
