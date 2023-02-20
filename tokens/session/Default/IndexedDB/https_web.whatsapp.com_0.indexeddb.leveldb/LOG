@@ -1,0 +1,22 @@
+2023/02/20-10:55:05.699 898 Reusing MANIFEST C:\Users\goura\OneDrive\Documents\html\whatsapp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/20-10:55:05.699 898 Recovering log #579
+2023/02/20-10:55:05.862 898 Reusing old log C:\Users\goura\OneDrive\Documents\html\whatsapp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000579.log 
+2023/02/20-10:55:32.807 21e4 Level-0 table #589: started
+2023/02/20-10:55:33.050 21e4 Level-0 table #589: 1057908 bytes OK
+2023/02/20-10:55:33.152 21e4 Delete type=0 #579
+2023/02/20-10:55:33.251 20c8 Compacting 1@1 + 6@2 files
+2023/02/20-10:55:33.952 20c8 Generated table #590@1: 69204 keys, 2233901 bytes
+2023/02/20-10:55:34.451 20c8 Generated table #591@1: 48990 keys, 2219535 bytes
+2023/02/20-10:55:34.760 20c8 Generated table #592@1: 5687 keys, 2151519 bytes
+2023/02/20-10:55:35.207 20c8 Generated table #593@1: 20763 keys, 2168190 bytes
+2023/02/20-10:55:35.911 20c8 Generated table #594@1: 99571 keys, 2250612 bytes
+2023/02/20-10:55:36.371 20c8 Generated table #595@1: 57811 keys, 1201026 bytes
+2023/02/20-10:55:36.371 20c8 Compacted 1@1 + 6@2 files => 12224783 bytes
+2023/02/20-10:55:36.401 20c8 compacted to: files[ 0 0 6 0 0 0 0 ]
+2023/02/20-10:55:36.402 20c8 Delete type=2 #581
+2023/02/20-10:55:36.402 20c8 Delete type=2 #582
+2023/02/20-10:55:36.402 20c8 Delete type=2 #583
+2023/02/20-10:55:36.402 20c8 Delete type=2 #584
+2023/02/20-10:55:36.403 20c8 Delete type=2 #585
+2023/02/20-10:55:36.403 20c8 Delete type=2 #586
+2023/02/20-10:55:36.403 20c8 Delete type=2 #589
