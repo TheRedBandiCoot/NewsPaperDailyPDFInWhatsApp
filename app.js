@@ -5,9 +5,9 @@ const https = require('https');
 const cron = require('node-cron');
 
 const url = 'https://www.careerswave.in/ei-samay-epaper-pdf/';
-
+console.log('starting');
 // Schedule the task to run every day at 7 am
-cron.schedule('16 4 * * *', () => {
+cron.schedule('30 4 * * *', () => {
   https
     .get(url, (res) => {
       let data = '';
