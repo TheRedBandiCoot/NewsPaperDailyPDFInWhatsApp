@@ -52,6 +52,7 @@ https
         });
     });
   })
+
   .on('error', (err) => {
     console.error('Error fetching link: ', err);
   });
